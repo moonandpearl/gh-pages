@@ -5,6 +5,7 @@
     "home_page_url": "https://moonandpearl.github.io/gh-pages",
     "feed_url": "https://moonandpearl.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://moonandpearl.github.io/gh-pages/media/website/Artboard-1.png",
     "author": {
         "name": "Justin Benson"
     },
@@ -12,16 +13,17 @@
         {
             "id": "https://moonandpearl.github.io/gh-pages/moon-and-pearl-lutherie.html",
             "url": "https://moonandpearl.github.io/gh-pages/moon-and-pearl-lutherie.html",
-            "title": "Moon &amp; Pearl Lutherie",
-            "summary": "Custom orders for handmade guitars Simple repairs for electric guitars",
-            "content_html": "<p> </p>\n<p>Custom orders for handmade guitars</p>\n<p>Simple repairs for electric guitars</p>",
+            "title": "Custom handmade guitars &amp; repair",
+            "summary": "Custom handmade electric guitars to order Setups and most repairs for electric guitars",
+            "content_html": "<p> </p>\n<p>Custom handmade electric guitars to order</p>\n<p>Setups and most repairs for electric guitars</p>",
+            "image": "https://moonandpearl.github.io/gh-pages/media/posts/1/Artboard-1.png",
             "author": {
                 "name": "Justin Benson"
             },
             "tags": [
             ],
             "date_published": "2023-02-28T13:09:21-08:00",
-            "date_modified": "2023-02-28T13:49:18-08:00"
+            "date_modified": "2023-02-28T15:18:00-08:00"
         }
     ]
 }
