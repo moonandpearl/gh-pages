@@ -5,17 +5,30 @@
     "home_page_url": "https://moonandpearl.github.io/gh-pages",
     "feed_url": "https://moonandpearl.github.io/gh-pages/feed.json",
     "user_comment": "",
-    "icon": "https://moonandpearl.github.io/gh-pages/media/website/Artboard-1.png",
     "author": {
         "name": "Justin Benson"
     },
     "items": [
         {
+            "id": "https://moonandpearl.github.io/gh-pages/previous-builds.html",
+            "url": "https://moonandpearl.github.io/gh-pages/previous-builds.html",
+            "title": "Previous builds",
+            "summary": "Vintage correct 1956 Fender Telecaster",
+            "content_html": "<p>Vintage correct 1956 Fender Telecaster </p>\n<p> </p>",
+            "author": {
+                "name": "Justin Benson"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-28T15:24:20-08:00",
+            "date_modified": "2023-02-28T15:24:20-08:00"
+        },
+        {
             "id": "https://moonandpearl.github.io/gh-pages/moon-and-pearl-lutherie.html",
             "url": "https://moonandpearl.github.io/gh-pages/moon-and-pearl-lutherie.html",
             "title": "Custom handmade guitars &amp; repair",
-            "summary": "Custom handmade electric guitars to order Setups and most repairs for electric guitars",
-            "content_html": "<p> </p>\n<p>Custom handmade electric guitars to order</p>\n<p>Setups and most repairs for electric guitars</p>",
+            "summary": "🎸Custom handmade electric guitars to order 🎸Setups and most repairs for electric guitars Fret removalRe-fretPartial re-fretLevel, crown and polishSetupRestring Connect&hellip;",
+            "content_html": "<p class=\"align-center\"> </p>\n<p class=\"align-center\">🎸Custom handmade electric guitars to order</p>\n<p class=\"align-center\">🎸Setups and most repairs for electric guitars</p>\n<address class=\"align-center\"> </address><address>Fret removal</address><address>Re-fret</address><address>Partial re-fret</address><address>Level, crown and polish</address><address>Setup</address><address>Restring</address><address> </address><address class=\"align-center\"> </address><address>Connect with us @<br>instagram.com/<a href=\"mailto:moonandpearllutherie@gmail.com\">moonandpearl.lutherie</a></address><address><a href=\"mailto:moonandpearllutherie@gmail.com\">moonandpearllutherie@gmail.com</a></address><address>Located in North Hollywood, CA </address><address>USA</address>",
             "image": "https://moonandpearl.github.io/gh-pages/media/posts/1/Artboard-1.png",
             "author": {
                 "name": "Justin Benson"
@@ -23,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2023-02-28T13:09:21-08:00",
-            "date_modified": "2023-02-28T15:18:00-08:00"
+            "date_modified": "2023-02-28T15:34:50-08:00"
         }
     ]
 }
