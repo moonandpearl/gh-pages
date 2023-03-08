@@ -1,14 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>moonandpearllutherie.com</title>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Moon &amp; Pearl Lutherie</title>
     <link href="https://moonandpearl.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://moonandpearl.github.io/gh-pages" />
-    <updated>2023-03-01T15:20:44-08:00</updated>
+    <updated>2023-03-08T14:00:44-08:00</updated>
     <author>
         <name>Justin Benson</name>
     </author>
     <id>https://moonandpearl.github.io/gh-pages</id>
 
+    <entry>
+        <title>Vintage inspired 1956 Telecaster</title>
+        <author>
+            <name>Justin Benson</name>
+        </author>
+        <link href="https://moonandpearl.github.io/gh-pages/portrait-old-man.html"/>
+        <id>https://moonandpearl.github.io/gh-pages/portrait-old-man.html</id>
+        <media:content url="https://moonandpearl.github.io/gh-pages/media/posts/6/65645722391__6BA8F78D-85FC-4EC2-B7F4-B06234D0E9D7.JPEG" medium="image" />
+
+        <updated>2023-03-02T10:20:13-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://moonandpearl.github.io/gh-pages/media/posts/6/65645722391__6BA8F78D-85FC-4EC2-B7F4-B06234D0E9D7.JPEG" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/65645720750__C047A84C-EB2E-4DC2-8F1D-3662D7C4A309.JPEG" data-size="1536x2048"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/65645720750__C047A84C-EB2E-4DC2-8F1D-3662D7C4A309-thumbnail.JPEG" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_8704-1.JPEG" data-size="1773x1773"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_8704-1-thumbnail.JPEG" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_6777.JPEG" data-size="1536x2048"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_6777-thumbnail.JPEG" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_7532.JPEG" data-size="1536x2048"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_7532-thumbnail.JPEG" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_9125.JPEG" data-size="2048x1536"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_9125-thumbnail.JPEG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_7617.JPG" data-size="4032x3024"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_7617-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_8945.JPEG" data-size="2048x1536"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_8945-thumbnail.JPEG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_9363-2.JPEG" data-size="2048x1536"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_9363-2-thumbnail.JPEG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_9563.JPEG" data-size="1536x2048"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_9563-thumbnail.JPEG" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/BD7EEC64-28FD-43DB-8611-3D1E936A4B64.jpg" data-size="4032x3024"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/BD7EEC64-28FD-43DB-8611-3D1E936A4B64-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_0455.JPEG" data-size="2048x1536"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_0455-thumbnail.JPEG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_0168.JPG" data-size="4032x3024"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/6/gallery/IMG_0168-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Justin Benson</name>
+        </author>
+        <link href="https://moonandpearl.github.io/gh-pages/about-me.html"/>
+        <id>https://moonandpearl.github.io/gh-pages/about-me.html</id>
+            <category term="About us"/>
+
+        <updated>2023-03-02T10:41:54-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Bluegrass picking brought my parents together, and I've been crazy about guitar since I was little. I've been modding and repairing electric guitars part time for years and built my first electric at the start of the pandemic.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bluegrass picking brought my parents together, and I've been crazy about guitar since I was little.  I've been modding and repairing electric guitars part time for years and built my first electric at the start of the pandemic.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Previous builds</title>
         <author>
@@ -37,17 +90,18 @@
         </author>
         <link href="https://moonandpearl.github.io/gh-pages/moon-and-pearl-lutherie.html"/>
         <id>https://moonandpearl.github.io/gh-pages/moon-and-pearl-lutherie.html</id>
+        <media:content url="https://moonandpearl.github.io/gh-pages/media/posts/1/MPlayered.png" medium="image" />
 
-        <updated>2023-03-01T15:20:44-08:00</updated>
+        <updated>2023-03-08T14:00:44-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://moonandpearl.github.io/gh-pages/media/posts/1/MPlayered.png" alt="" />
-                    Custom handmade guitars &amp; repair Vintage inspired 1956 Telecaster Roasted flame maple Custom dot inlays woodcraft glued fingerboard to neck&hellip;
+                    Custom handmade guitars &amp; repair Vintage inspired 1956 Telecaster Roasted flame maple Custom dot inlays woodcraft glued fingerboard to neck 🎸Custom handmade electric guitars to order 🎸Setups and most repairs for electric guitars &amp; basses Service and repairs Neck work Fret Removal for conversion to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://moonandpearl.github.io/gh-pages/media/posts/1/MPlayered.png" alt="" />
+                    <p><img src="https://moonandpearl.github.io/gh-pages/media/posts/1/MPlayered.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center">Custom handmade guitars &amp; repair</h6>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://moonandpearl.github.io/gh-pages/media/posts/1/gallery/65645722391__6BA8F78D-85FC-4EC2-B7F4-B06234D0E9D7.jpg" data-size="4032x3024"><img loading="lazy" src="https://moonandpearl.github.io/gh-pages/media/posts/1/gallery/65645722391__6BA8F78D-85FC-4EC2-B7F4-B06234D0E9D7-thumbnail.jpg" alt="" width="768" height="576"></a>
